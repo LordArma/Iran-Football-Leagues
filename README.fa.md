@@ -1,34 +1,40 @@
-# Iran Football Leagues
+<div dir="rtl">
 
-Club logos for the three national men's football leagues of Iran, organised by league
-and kept up to date with the current season.
+# لیگ‌های فوتبال ایران
 
-**Season:** 1405–1406 (2026–27) · **Rosters verified:** 24 September 2026 (2 Mehr 1405)
+مجموعهٔ لوگوی باشگاه‌های سه لیگ سراسری فوتبال مردان ایران. لوگوها به تفکیک لیگ مرتب
+شده‌اند و بر اساس فصل جاری به‌روز می‌شوند.
 
-[نسخهٔ فارسی](README.fa.md)
+**فصل:** ۱۴۰۶–۱۴۰۵ · **آخرین بررسی فهرست تیم‌ها:** ۲ مهر ۱۴۰۵
 
-## Layout
+[English version](README.md)
+
+## ساختار پوشه‌ها
+
+</div>
 
 ```
-Persian Gulf Pro League/   Tier 1, 18 clubs
-Azadegan League/           Tier 2 (League 1), 16 clubs
+Persian Gulf Pro League/   لیگ برتر خلیج فارس (سطح یک)، ۱۸ تیم
+Azadegan League/           لیگ آزادگان (لیگ یک)، ۱۶ تیم
 League 2/
-  Group 1/                 Tier 3, 14 clubs
-  Group 2/                 Tier 3, 14 clubs
+  Group 1/                 لیگ دو، گروه اول، ۱۴ تیم
+  Group 2/                 لیگ دو، گروه دوم، ۱۴ تیم
 ```
 
-- Each file is named after the club in Persian (for example `پرسپولیس تهران.png`).
-- Every club has a PNG master. Where a vector original exists there is also an SVG
-  with the same name.
-- Masters are stored at the highest resolution found and are not resized. Standard
-  sizes (512×512 and others) are planned.
-- Reserve teams (استقلال ب، سپاهان ب، ذوب آهن ب) use their parent club's crest.
-- Clubs whose logo hasn't been found yet have a grey question-mark shield as a
-  placeholder under their real filename (marked "placeholder" in the tables).
+<div dir="rtl">
 
-## Persian Gulf Pro League (18)
+- نام هر فایل، نام فارسی باشگاه است (مثلاً `پرسپولیس تهران.png`).
+- هر باشگاه یک فایل PNG اصلی دارد. اگر نسخهٔ برداری (وکتور) موجود بوده، یک فایل SVG
+  هم‌نام نیز کنار آن قرار دارد.
+- فایل‌های اصلی با بالاترین کیفیتی که پیدا شد و بدون تغییر اندازه ذخیره شده‌اند. تهیهٔ
+  اندازه‌های استاندارد (مثل ۵۱۲×۵۱۲) در برنامه است.
+- تیم‌های دوم (استقلال ب، سپاهان ب، ذوب آهن ب) از لوگوی باشگاه اصلی استفاده می‌کنند.
+- برای تیم‌هایی که لوگویشان هنوز پیدا نشده، یک سپر خاکستری با علامت سؤال با همان نام
+  فایل قرار گرفته است (در جدول‌ها با «جایگزین موقت» مشخص شده).
 
-| # | Club | Logo | Master size |
+## لیگ برتر خلیج فارس (۱۸ تیم)
+
+| # | باشگاه | لوگو | کیفیت |
 |---|---|---|---|
 | 1 | آلومینیوم اراک | [PNG](Persian%20Gulf%20Pro%20League/%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%20%D8%A7%D8%B1%D8%A7%DA%A9.png) · [SVG](Persian%20Gulf%20Pro%20League/%D8%A2%D9%84%D9%88%D9%85%DB%8C%D9%86%DB%8C%D9%88%D9%85%20%D8%A7%D8%B1%D8%A7%DA%A9.svg) | 3000×3000 |
 | 2 | استقلال تهران | [PNG](Persian%20Gulf%20Pro%20League/%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%20%D8%AA%D9%87%D8%B1%D8%A7%D9%86.png) · [SVG](Persian%20Gulf%20Pro%20League/%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%20%D8%AA%D9%87%D8%B1%D8%A7%D9%86.svg) | 3000×3000 |
@@ -49,9 +55,9 @@ League 2/
 | 17 | ملوان بندرانزلی | [PNG](Persian%20Gulf%20Pro%20League/%D9%85%D9%84%D9%88%D8%A7%D9%86%20%D8%A8%D9%86%D8%AF%D8%B1%D8%A7%D9%86%D8%B2%D9%84%DB%8C.png) · [SVG](Persian%20Gulf%20Pro%20League/%D9%85%D9%84%D9%88%D8%A7%D9%86%20%D8%A8%D9%86%D8%AF%D8%B1%D8%A7%D9%86%D8%B2%D9%84%DB%8C.svg) | 3000×3000 |
 | 18 | نساجی مازندران | [PNG](Persian%20Gulf%20Pro%20League/%D9%86%D8%B3%D8%A7%D8%AC%DB%8C%20%D9%85%D8%A7%D8%B2%D9%86%D8%AF%D8%B1%D8%A7%D9%86.png) | 500×500 |
 
-## Azadegan League (16)
+## لیگ آزادگان (۱۶ تیم)
 
-| # | Club | Logo | Master size |
+| # | باشگاه | لوگو | کیفیت |
 |---|---|---|---|
 | 1 | آریو اسلامشهر | [PNG](Azadegan%20League/%D8%A2%D8%B1%DB%8C%D9%88%20%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D8%B4%D9%87%D8%B1.png) | 1024×1024 |
 | 2 | بعثت کرمانشاه | [PNG](Azadegan%20League/%D8%A8%D8%B9%D8%AB%D8%AA%20%DA%A9%D8%B1%D9%85%D8%A7%D9%86%D8%B4%D8%A7%D9%87.png) | 422×422 |
@@ -70,9 +76,9 @@ League 2/
 | 15 | نیروی زمینی | [PNG](Azadegan%20League/%D9%86%DB%8C%D8%B1%D9%88%DB%8C%20%D8%B2%D9%85%DB%8C%D9%86%DB%8C.png) | 256×256 |
 | 16 | هوادار تهران | [PNG](Azadegan%20League/%D9%87%D9%88%D8%A7%D8%AF%D8%A7%D8%B1%20%D8%AA%D9%87%D8%B1%D8%A7%D9%86.png) | 200×251 |
 
-## League 2, Group 1 (14)
+## لیگ دو، گروه اول (۱۴ تیم)
 
-| # | Club | Logo | Master size |
+| # | باشگاه | لوگو | کیفیت |
 |---|---|---|---|
 | 1 | نود ارومیه | [PNG](League%202/Group%201/%D9%86%D9%88%D8%AF%20%D8%A7%D8%B1%D9%88%D9%85%DB%8C%D9%87.png) | 150×150 |
 | 2 | شهرداری بندر ماهشهر | [PNG](League%202/Group%201/%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C%20%D8%A8%D9%86%D8%AF%D8%B1%20%D9%85%D8%A7%D9%87%D8%B4%D9%87%D8%B1.png) | 386×380 |
@@ -85,13 +91,13 @@ League 2/
 | 9 | پادیاب خلخال | [PNG](League%202/Group%201/%D9%BE%D8%A7%D8%AF%DB%8C%D8%A7%D8%A8%20%D8%AE%D9%84%D8%AE%D8%A7%D9%84.png) | 256×256 |
 | 10 | شاهین تهران | [PNG](League%202/Group%201/%D8%B4%D8%A7%D9%87%DB%8C%D9%86%20%D8%AA%D9%87%D8%B1%D8%A7%D9%86.png) | 150×150 |
 | 11 | ذوب آهن ب | [PNG](League%202/Group%201/%D8%B0%D9%88%D8%A8%20%D8%A2%D9%87%D9%86%20%D8%A8.png) · [SVG](League%202/Group%201/%D8%B0%D9%88%D8%A8%20%D8%A2%D9%87%D9%86%20%D8%A8.svg) | 3000×3000 |
-| 12 | پرواز سیمرغ | [PNG](League%202/Group%201/%D9%BE%D8%B1%D9%88%D8%A7%D8%B2%20%D8%B3%DB%8C%D9%85%D8%B1%D8%BA.png) | placeholder (logo not found yet) |
-| 13 | نفت و گاز غرب ایلام | [PNG](League%202/Group%201/%D9%86%D9%81%D8%AA%20%D9%88%20%DA%AF%D8%A7%D8%B2%20%D8%BA%D8%B1%D8%A8%20%D8%A7%DB%8C%D9%84%D8%A7%D9%85.png) | placeholder (logo not found yet) |
-| 14 | فجر قزوین | [PNG](League%202/Group%201/%D9%81%D8%AC%D8%B1%20%D9%82%D8%B2%D9%88%DB%8C%D9%86.png) | placeholder (logo not found yet) |
+| 12 | پرواز سیمرغ | [PNG](League%202/Group%201/%D9%BE%D8%B1%D9%88%D8%A7%D8%B2%20%D8%B3%DB%8C%D9%85%D8%B1%D8%BA.png) | جایگزین موقت (لوگو یافت نشد) |
+| 13 | نفت و گاز غرب ایلام | [PNG](League%202/Group%201/%D9%86%D9%81%D8%AA%20%D9%88%20%DA%AF%D8%A7%D8%B2%20%D8%BA%D8%B1%D8%A8%20%D8%A7%DB%8C%D9%84%D8%A7%D9%85.png) | جایگزین موقت (لوگو یافت نشد) |
+| 14 | فجر قزوین | [PNG](League%202/Group%201/%D9%81%D8%AC%D8%B1%20%D9%82%D8%B2%D9%88%DB%8C%D9%86.png) | جایگزین موقت (لوگو یافت نشد) |
 
-## League 2, Group 2 (14)
+## لیگ دو، گروه دوم (۱۴ تیم)
 
-| # | Club | Logo | Master size |
+| # | باشگاه | لوگو | کیفیت |
 |---|---|---|---|
 | 1 | شهرداری نوشهر | [PNG](League%202/Group%202/%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C%20%D9%86%D9%88%D8%B4%D9%87%D8%B1.png) | 1080×1531 |
 | 2 | داماش گیلان | [PNG](League%202/Group%202/%D8%AF%D8%A7%D9%85%D8%A7%D8%B4%20%DA%AF%DB%8C%D9%84%D8%A7%D9%86.png) | 1936×2560 |
@@ -104,33 +110,33 @@ League 2/
 | 9 | شایان دیزل فارس | [PNG](League%202/Group%202/%D8%B4%D8%A7%DB%8C%D8%A7%D9%86%20%D8%AF%DB%8C%D8%B2%D9%84%20%D9%81%D8%A7%D8%B1%D8%B3.png) | 139×139 |
 | 10 | آسمان گلستان | [PNG](League%202/Group%202/%D8%A2%D8%B3%D9%85%D8%A7%D9%86%20%DA%AF%D9%84%D8%B3%D8%AA%D8%A7%D9%86.png) | 139×139 |
 | 11 | ملوان بوشهر | [PNG](League%202/Group%202/%D9%85%D9%84%D9%88%D8%A7%D9%86%20%D8%A8%D9%88%D8%B4%D9%87%D8%B1.png) | 147×147 |
-| 12 | کشاورز رباط کریم | [PNG](League%202/Group%202/%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%20%D8%B1%D8%A8%D8%A7%D8%B7%20%DA%A9%D8%B1%DB%8C%D9%85.png) | placeholder (logo not found yet) |
-| 13 | رضوانی اصفهان | [PNG](League%202/Group%202/%D8%B1%D8%B6%D9%88%D8%A7%D9%86%DB%8C%20%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86.png) | placeholder (logo not found yet) |
-| 14 | نفت اهواز | [PNG](League%202/Group%202/%D9%86%D9%81%D8%AA%20%D8%A7%D9%87%D9%88%D8%A7%D8%B2.png) | placeholder (logo not found yet) |
+| 12 | کشاورز رباط کریم | [PNG](League%202/Group%202/%DA%A9%D8%B4%D8%A7%D9%88%D8%B1%D8%B2%20%D8%B1%D8%A8%D8%A7%D8%B7%20%DA%A9%D8%B1%DB%8C%D9%85.png) | جایگزین موقت (لوگو یافت نشد) |
+| 13 | رضوانی اصفهان | [PNG](League%202/Group%202/%D8%B1%D8%B6%D9%88%D8%A7%D9%86%DB%8C%20%D8%A7%D8%B5%D9%81%D9%87%D8%A7%D9%86.png) | جایگزین موقت (لوگو یافت نشد) |
+| 14 | نفت اهواز | [PNG](League%202/Group%202/%D9%86%D9%81%D8%AA%20%D8%A7%D9%87%D9%88%D8%A7%D8%B2.png) | جایگزین موقت (لوگو یافت نشد) |
 
-## Sources
+## منابع
 
-- Rosters: [Varzesh3](https://www.varzesh3.com/football/league/6/) league tables,
-  Persian Wikipedia season pages, and the League 2 draw of 29 Shahrivar 1405
-  ([Varzesh3](https://www.varzesh3.com/news/2430476/), [IPNA](https://www.ipna.ir/)).
-- Logos: [football-logos.cc](https://football-logos.cc/iran/), Wikipedia/Wikimedia
-  Commons, the Varzesh3 CDN, and [footba11.co](https://footba11.co/tournament/346/).
+- فهرست تیم‌ها: جدول لیگ‌ها در [ورزش سه](https://www.varzesh3.com/football/league/6/)،
+  صفحه‌های فصل در ویکی‌پدیای فارسی، و قرعه‌کشی لیگ دو در ۲۹ شهریور ۱۴۰۵
+  ([ورزش سه](https://www.varzesh3.com/news/2430476/)، [ایپنا](https://www.ipna.ir/)).
+- لوگوها: [football-logos.cc](https://football-logos.cc/iran/)، ویکی‌پدیا و ویکی‌انبار،
+  سرور تصاویر ورزش سه و [فوتبال ۱۱](https://footba11.co/tournament/346/).
 
-## Contributing
+## مشارکت
 
-Missing and low-resolution logos are the most useful contributions. Six League 2 clubs
-still have only a placeholder, and many League 2 files are below 512 px. When you add or replace a
-logo:
+بیشترین کمک، افزودن لوگوهای ناموجود و جایگزین کردن لوگوهای کم‌کیفیت است. شش تیم لیگ دو
+هنوز فقط تصویر جایگزین موقت دارند و بسیاری از فایل‌های لیگ دو کمتر از ۵۱۲ پیکسل هستند. هنگام افزودن یا
+جایگزینی لوگو:
 
-1. Use the club's current official crest at the highest resolution available (an SVG
-   if possible).
-2. Name the file exactly like the existing entry in the tables above.
-3. Update the table for that league in both `README.md` and `README.fa.md`.
+1. نشان رسمی فعلی باشگاه را با بالاترین کیفیت موجود بگذارید (ترجیحاً SVG).
+2. نام فایل را دقیقاً مطابق جدول‌های بالا بنویسید.
+3. جدول همان لیگ را در هر دو فایل `README.md` و `README.fa.md` به‌روز کنید.
 
-When clubs are promoted or relegated, move their files to the new league folder.
+با صعود یا سقوط یک تیم، فایل‌هایش را به پوشهٔ لیگ جدید منتقل کنید.
 
-## License
+## مجوز
 
-The repository structure and documentation are released under the [MIT License](LICENSE).
-The logos themselves are trademarks of their respective clubs and are included for
-identification and reference only.
+ساختار مخزن و مستندات تحت [مجوز MIT](LICENSE) منتشر شده‌اند. لوگوها علامت تجاری
+باشگاه‌های مربوط هستند و فقط برای معرفی و ارجاع در اینجا آمده‌اند.
+
+</div>
