@@ -88,7 +88,7 @@ League 2/
 | 4 | برق شیراز | [PNG](League%202/Group%201/%D8%A8%D8%B1%D9%82%20%D8%B4%DB%8C%D8%B1%D8%A7%D8%B2.png) | 447×447 |
 | 5 | شهرداری بندرعباس | [PNG](League%202/Group%201/%D8%B4%D9%87%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C%20%D8%A8%D9%86%D8%AF%D8%B1%D8%B9%D8%A8%D8%A7%D8%B3.png) | 256×256 |
 | 6 | رخش خودرو تبریز | [PNG](League%202/Group%201/%D8%B1%D8%AE%D8%B4%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%20%D8%AA%D8%A8%D8%B1%DB%8C%D8%B2.png) | 103×103 |
-| 7 | سپیدرود رشت | [PNG](League%202/Group%201/%D8%B3%D9%BE%DB%8C%D8%AF%D8%B1%D9%88%D8%AF%20%D8%B1%D8%B4%D8%AA.png) | 450×450 |
+| 7 | سپیدرود رشت | [PNG](League%202/Group%201/%D8%B3%D9%BE%DB%8C%D8%AF%D8%B1%D9%88%D8%AF%20%D8%B1%D8%B4%D8%AA.png) | 512×512 |
 | 8 | ایران جوان بوشهر | [PNG](League%202/Group%201/%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%AC%D9%88%D8%A7%D9%86%20%D8%A8%D9%88%D8%B4%D9%87%D8%B1.png) | 305×327 |
 | 9 | پادیاب خلخال | [PNG](League%202/Group%201/%D9%BE%D8%A7%D8%AF%DB%8C%D8%A7%D8%A8%20%D8%AE%D9%84%D8%AE%D8%A7%D9%84.png) | 256×256 |
 | 10 | شاهین تهران | [PNG](League%202/Group%201/%D8%B4%D8%A7%D9%87%DB%8C%D9%86%20%D8%AA%D9%87%D8%B1%D8%A7%D9%86.png) | 150×150 |
